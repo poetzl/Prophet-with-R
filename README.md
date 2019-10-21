@@ -1,4 +1,3 @@
----
 author: "Kerstin Poetzl"
 title: "Time Series Analysis with R"
 subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
