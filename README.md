@@ -3,8 +3,8 @@ chooseCRANmirror(graphics=FALSE, ind=1)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# title: "Time Series Analysis with R"
-## subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
+# Time Series Analysis with R
+## Introduction to Facebook's Prophet (Oct 2019)
 author: "Kerstin Poetzl"
 Hochschule der Medien Stuttgart
 2019/10/23
