@@ -1,18 +1,3 @@
----
-author: "Kerstin Poetzl"
-title: "Time Series Analysis with R"
-subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
-output:
- html_document:
-  fig_height: 8
-  fig_width: 12
-  highlight: tango
-  number_sections: yes
-  theme: paper
-  toc: yes
-  toc_depth: 3
----
-
 ```{r setup, include=FALSE}
 chooseCRANmirror(graphics=FALSE, ind=1)
 knitr::opts_chunk$set(echo = TRUE)
