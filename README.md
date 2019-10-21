@@ -1,6 +1,9 @@
-author: "Kerstin Poetzl"
-title: "Time Series Analysis with R"
-subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
+
+# title: "Time Series Analysis with R"
+## subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
+## author: "Kerstin Poetzl"
+## Hochschule der Medien Stuttgart
+## 2019/10/23
 
 ```{r setup, include=FALSE}
 chooseCRANmirror(graphics=FALSE, ind=1)
