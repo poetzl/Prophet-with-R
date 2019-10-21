@@ -1,16 +1,16 @@
-
-# title: "Time Series Analysis with R"
-## subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
-## author: "Kerstin Poetzl"
-## Hochschule der Medien Stuttgart
-## 2019/10/23
-
 ```{r setup, include=FALSE}
 chooseCRANmirror(graphics=FALSE, ind=1)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**References:**
+# title: "Time Series Analysis with R"
+## subtitle: "Introduction to Facebook's Prophet (Oct 2019)"
+author: "Kerstin Poetzl"
+Hochschule der Medien Stuttgart
+2019/10/23
+
+
+# References:
 
 * [Facebook Prophet documentation](https://facebook.github.io/prophet/docs/quick_start.html#r-api) <br>
 --> referenced as [FB]<br>
