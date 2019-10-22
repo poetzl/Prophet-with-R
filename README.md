@@ -9,8 +9,7 @@ author: "Kerstin Poetzl"
 Hochschule der Medien Stuttgart
 2019/10/23
 
-
-# References:
+**References:**
 
 * [Facebook Prophet documentation](https://facebook.github.io/prophet/docs/quick_start.html#r-api) <br>
 --> referenced as [FB]<br>
@@ -35,6 +34,10 @@ Hochschule der Medien Stuttgart
 
 * Automatic Forecasting Procedure (2019) [Package ‘prophet’](https://cran.r-project.org/web/packages/prophet/prophet.pdf)<br>
 --> [Package ‘prophet’]
+
+
+
+<img src="C:/Users/kpoetzl/Documents/R/R Online Phase/Assignments/SourcePictures/Prophet_small.png" alt="">
 
 
 # Installed Packages and Libraries
@@ -84,6 +87,8 @@ As data set we use the wikipedia log number of views of Peypton Manning who is a
 Source:<br>
 - [Peyton Manning at Wikipedia](https://de.wikipedia.org/wiki/Peyton_Manning)<br>
 - [Data from github](https://github.com/facebook/prophet/blob/master/examples/example_wp_log_peyton_manning.csv)
+
+<img src="C:/Users/kpoetzl/Documents/R/R Online Phase/Assignments/SourcePictures/Peyton-Manning-2013_small.jpg" alt="">
 
 Peyton Williams Manning (born March 24, 1976 in New Orleans, Louisiana) is a former American football player on the quarterback's position. He played 14 years for the Indianapolis Colts in the National Football League (NFL) and won with them the Super Bowl XLI. He then played four years for the Denver Broncos, with whom he won the 2016 Super Bowl 50 in his last season. [Manning@Wiki]
 
@@ -156,7 +161,6 @@ Alternatively `print()` can be used as well.
 #print(data)
 ```
 
-
 Another option is to generate a table as output, where you can navigate through the rows.
 Apply the function `datatable()` to check the values of the data:
 
@@ -214,7 +218,6 @@ Store the values for "date" in the variable "ds" for data stamp information:
 ```{r}
 ds <- data$ds
 ```
-
 
 **Logarithmic scales**
 
@@ -390,7 +393,9 @@ Prophet is optimized for business forecast tasks with following characteristics:
 
 "More details about the options available for each method are available in the docstrings, for example, via ?prophet or ?fit.prophet. This documentation is also available in the [reference](https://cran.r-project.org/web/packages/prophet/prophet.pdf) manual on CRAN." [FB]
 
----------------
+--------------------------------------------
+
+Tutorial available @ [https://github.com/poetzl/Prophet-with-R](https://github.com/poetzl/Prophet-with-R)
 
 
 
