@@ -1,7 +1,4 @@
-```{r setup, include=FALSE}
-chooseCRANmirror(graphics=FALSE, ind=1)
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Time Series Analysis with R
 ## Introduction to Facebook's Prophet (Oct 2019)
