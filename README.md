@@ -2,8 +2,8 @@
 
 # Time Series Analysis with R
 ## Introduction to Facebook's Prophet (Oct 2019)
-author: "Kerstin Poetzl"
-Hochschule der Medien Stuttgart
+author: "Kerstin Poetzl"<br>
+Hochschule der Medien Stuttgart<br>
 2019/10/23
 
 **References:**
